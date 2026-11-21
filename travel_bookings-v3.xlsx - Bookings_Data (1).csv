@@ -1,0 +1,813 @@
+Booking_ID,Booking_Date,Destination,Travelers,Trip_Duration_Days,Booking_Amount,Package_Type,Customer_Age,Travel_Purpose
+BK910100,2023-03-29,Sydney,10,37.0,"833,416.22",Expedition,80,Cultural
+BK910281,2024-09-13,Istanbul,15,30.0,"418,795.04",Executive,92,Cultural
+BK910243,2023-10-08,Sydney,14,24.0,"499,110.54",Boutique,84,Wellness
+BK910778,2023-09-06,Barcelona,14,25.0,"653,766.46",VIP,81,Cultural
+BK910367,2024-03-02,Amsterdam,15,26.0,"730,066.47",VIP,80,Educational
+BK910647,2023-12-31,Rome,8,29.0,,Boutique,88,Educational
+BK910230,2024-09-11,Tokyo,9,25.0,"401,430.42",Executive,77,Wildlife
+BK910546,2024-01-24,London,8,31.0,"370,928.62",Economy,83,Wildlife
+BK910594,2024-01-13,Barcelona,8,28.0,"894,862.72",Expedition,81,Wildlife
+BK910530,2023-03-18,Rome,14,30.0,"576,380.99",Executive,78,Culinary
+BK910276,2023-01-17,London,15,22.0,"820,431.07",Expedition,82,Culinary
+BK910310,2023-10-19,Paris,9,31.0,,Executive,85,Wildlife
+BK910479,2024-12-30,Amsterdam,14,,"849,579.22",Executive,88,Wildlife
+BK910455,2024-11-01,Amsterdam,11,22.0,,Executive,76,Culinary
+BK910717,2024-04-04,London,8,25.0,"376,701.23",Executive,92,Culinary
+BK910580,2024-04-06,Paris,15,32.0,"853,834.83",VIP,92,Culinary
+BK910501,2023-10-14,Amsterdam,15,31.0,"864,283.43",Expedition,88,Cultural
+BK910038,2023-05-10,Paris,11,32.0,"494,109.71",Expedition,93,Cultural
+BK910582,2023-01-07,Sydney,12,30.0,"517,771.46",Economy,83,Wellness
+BK910007,2023-09-05,Cairo,10,32.0,"574,683.39",Expedition,91,Culinary
+BK910574,2023-08-20,Cairo,14,30.0,"553,454.58",Economy,89,Wildlife
+BK910051,2023-05-21,Barcelona,11,21.0,"421,176.45",Executive,86,Wildlife
+BK910259,2023-07-09,Tokyo,15,33.0,"835,549.60",Expedition,78,Educational
+BK910083,2023-01-19,New York,8,28.0,"458,184.95",Economy,86,Wellness
+BK910399,2024-03-20,Cairo,9,20.0,"722,584.36",Executive,93,Wildlife
+BK910061,2024-11-08,Amsterdam,15,27.0,"349,286.07",Executive,94,Wildlife
+BK910750,2024-05-19,Paris,10,27.0,"332,669.53",Boutique,83,Culinary
+BK910421,2023-11-24,London,10,21.0,"692,432.33",Boutique,79,Cultural
+BK910107,2023-11-04,Tokyo,14,37.0,"508,324.28",Economy,89,Cultural
+BK910225,2023-08-13,Barcelona,9,24.0,"693,443.74",VIP,76,Wildlife
+BK910708,2023-04-15,Cairo,11,25.0,"365,002.40",VIP,78,Educational
+BK910075,2024-03-13,Cairo,10,27.0,"865,663.06",Executive,86,Wildlife
+BK910091,2024-02-19,Sydney,9,34.0,"747,880.96",Expedition,94,Culinary
+BK910231,2023-01-06,London,15,33.0,"822,616.33",VIP,81,Wildlife
+BK910360,2023-10-31,Rome,9,33.0,"389,835.27",Executive,83,Wellness
+BK910472,2023-07-23,New York,8,24.0,"497,294.17",Economy,81,Wildlife
+BK910570,2023-05-05,Paris,12,35.0,"525,481.34",Executive,83,Wellness
+BK910662,2024-05-28,Istanbul,15,34.0,"624,246.00",Executive,75,Educational
+BK910522,2024-01-20,New York,8,28.0,"483,668.06",Executive,86,Educational
+BK910468,2024-04-08,Istanbul,12,29.0,"345,468.98",Executive,86,Culinary
+BK910354,2024-06-05,Paris,11,20.0,"525,793.85",Economy,81,Cultural
+BK910668,2024-12-18,Amsterdam,14,33.0,"458,911.35",Boutique,80,Wildlife
+BK910025,2024-08-09,New York,8,,"535,763.96",Economy,90,Wildlife
+BK910236,2024-03-29,Rome,15,28.0,"425,221.33",VIP,78,Wildlife
+BK910113,2024-10-04,Istanbul,12,29.0,"463,209.38",VIP,75,Culinary
+BK910427,2023-12-16,Barcelona,14,28.0,"676,767.12",VIP,75,Cultural
+BK910734,2024-12-20,Amsterdam,10,21.0,"537,069.99",Boutique,92,Wellness
+BK910406,2024-07-10,Rome,15,31.0,"512,049.29",Economy,82,Cultural
+BK910244,2024-04-20,New York,12,32.0,"622,334.80",Executive,77,Culinary
+BK910605,2024-10-22,Paris,8,36.0,"761,538.42",Economy,92,Culinary
+BK910511,2024-01-12,Paris,15,36.0,"531,637.75",Expedition,77,Culinary
+BK910143,2024-06-10,New York,14,28.0,"653,698.90",VIP,81,Cultural
+BK910585,2023-07-28,Rome,10,37.0,"875,228.54",Boutique,75,Educational
+BK910539,2024-12-05,Amsterdam,11,29.0,"615,358.37",Executive,88,Cultural
+BK910135,2024-03-31,Amsterdam,10,31.0,"842,231.58",Executive,88,Educational
+BK910180,2024-07-25,Tokyo,11,30.0,"774,298.49",Boutique,90,Cultural
+BK910545,2023-12-03,London,15,37.0,"344,350.43",VIP,80,Culinary
+BK910204,2024-09-25,New York,15,33.0,"561,022.84",VIP,81,Wildlife
+BK910755,2023-02-24,Amsterdam,9,22.0,"718,516.27",Expedition,93,Cultural
+BK910066,2023-03-25,Barcelona,15,21.0,"887,226.47",Expedition,91,Cultural
+BK910088,2024-01-06,Tokyo,11,27.0,"578,150.13",Executive,75,Cultural
+BK910219,2024-06-19,Rome,12,29.0,"364,279.49",VIP,88,Educational
+BK910146,2024-08-14,Tokyo,14,32.0,,Executive,91,Wellness
+BK910011,2023-11-18,Istanbul,11,28.0,"384,039.82",Boutique,86,Culinary
+BK910459,2024-04-19,London,11,29.0,"749,638.94",Economy,87,Wildlife
+BK910307,2024-02-09,Amsterdam,11,36.0,"606,991.04",Expedition,75,Wildlife
+BK910598,2024-12-03,Barcelona,15,26.0,"733,207.35",Executive,75,Culinary
+BK910680,2024-04-23,Sydney,10,28.0,"818,576.67",VIP,75,Wellness
+BK910245,2023-11-01,Tokyo,9,30.0,"677,934.59",VIP,78,Wellness
+BK910169,2024-12-09,London,10,28.0,"668,277.01",Boutique,94,Culinary
+BK910009,2023-03-20,Barcelona,9,37.0,"751,423.62",VIP,87,Educational
+BK910131,2024-12-20,New York,10,37.0,"802,836.18",Executive,90,Wellness
+BK910425,2023-04-23,Cairo,8,29.0,"818,396.46",Executive,80,Educational
+BK910098,2023-07-30,Sydney,8,28.0,"331,311.66",Boutique,93,Wildlife
+BK910694,2024-08-23,Paris,14,30.0,"635,371.32",Expedition,78,Wellness
+BK910767,2024-06-20,Paris,8,23.0,"436,517.55",Economy,93,Cultural
+BK910690,2024-12-10,Cairo,11,27.0,"813,302.35",Boutique,75,Cultural
+BK910514,2024-07-02,Barcelona,14,23.0,"689,312.65",VIP,75,Educational
+BK910334,2024-04-10,New York,14,22.0,"555,830.15",Economy,76,Culinary
+BK910136,2023-09-11,Tokyo,11,21.0,"420,040.97",VIP,90,Cultural
+BK910029,2023-01-04,Paris,9,30.0,"508,328.82",VIP,80,Cultural
+BK910055,2023-04-01,Amsterdam,15,20.0,"721,709.95",VIP,84,Culinary
+BK910552,2023-08-06,Istanbul,14,31.0,"429,550.33",Boutique,84,Wellness
+BK910740,2023-01-30,Rome,12,27.0,"364,746.02",Expedition,90,Cultural
+BK910030,2024-01-07,Rome,8,26.0,"829,496.82",Expedition,81,Wellness
+BK910285,2024-07-22,Barcelona,8,33.0,"757,063.05",VIP,75,Wildlife
+BK910096,2024-12-05,Paris,10,29.0,"426,880.03",Economy,82,Wildlife
+BK910164,2023-12-24,Rome,9,33.0,"481,002.25",Economy,80,Culinary
+BK910434,2024-10-01,Paris,15,32.0,"878,661.05",Boutique,89,Wellness
+BK910747,2024-12-21,Paris,9,20.0,"724,287.92",Executive,90,Cultural
+BK910250,2024-09-20,Rome,9,23.0,"667,155.37",Expedition,76,Educational
+BK910441,2023-12-06,New York,15,30.0,"489,962.66",Executive,90,Cultural
+BK910035,2023-08-26,Sydney,14,37.0,"484,988.21",Executive,76,Wellness
+BK910610,2024-12-15,Tokyo,9,22.0,"333,121.32",Expedition,87,Wellness
+BK910751,2023-06-26,Istanbul,10,21.0,"736,161.89",Boutique,82,Educational
+BK910469,2023-10-28,Paris,11,36.0,"335,257.51",Expedition,81,Wellness
+BK910045,2023-02-24,Tokyo,12,37.0,"312,841.54",Economy,84,Culinary
+BK910463,2024-08-03,Tokyo,15,23.0,"736,754.63",Executive,81,Educational
+BK910701,2024-04-20,Paris,15,27.0,"865,091.15",Economy,90,Wildlife
+BK910171,2023-03-04,Barcelona,15,31.0,"752,554.28",Boutique,94,Culinary
+BK910663,2023-06-12,Rome,8,23.0,"585,909.51",Executive,91,Cultural
+BK910655,2024-02-11,New York,9,25.0,"594,336.47",Executive,83,Wellness
+BK910661,2024-01-31,Istanbul,11,27.0,"565,139.81",Economy,85,Wellness
+BK910271,2024-08-09,Amsterdam,8,31.0,"499,916.55",Expedition,83,Educational
+BK910185,2023-07-14,New York,10,25.0,"615,202.82",Boutique,90,Wellness
+BK910343,2024-11-06,Rome,9,27.0,"562,223.31",Expedition,86,Wellness
+BK910536,2023-11-21,Amsterdam,15,25.0,"659,928.21",VIP,84,Educational
+BK910491,2024-08-24,New York,8,33.0,"835,400.25",Economy,83,Culinary
+BK910151,2023-06-24,New York,9,22.0,"892,080.51",Economy,82,Cultural
+BK910400,2023-01-28,New York,9,24.0,"356,064.82",VIP,86,Wildlife
+BK910326,2023-02-10,Cairo,9,24.0,"535,039.83",Economy,88,Culinary
+BK910115,2023-09-30,Istanbul,11,36.0,"415,713.12",Expedition,83,Educational
+BK910028,2024-11-27,Sydney,10,37.0,"515,990.48",Executive,91,Culinary
+BK910623,2023-02-05,London,15,29.0,"478,171.72",Economy,91,Wildlife
+BK910340,2023-09-27,Rome,9,22.0,,Expedition,83,Educational
+BK910116,2023-03-21,Amsterdam,11,33.0,"756,984.49",Boutique,93,Culinary
+BK910315,2024-11-11,Istanbul,12,28.0,"600,328.91",Economy,78,Cultural
+BK910749,2024-05-08,Amsterdam,12,35.0,"847,758.67",Boutique,93,Educational
+BK910350,2024-07-11,Paris,14,26.0,"329,066.58",Expedition,80,Cultural
+BK910419,2024-06-05,Amsterdam,9,37.0,"349,182.14",VIP,86,Wellness
+BK910324,2024-04-25,Rome,11,34.0,"545,915.05",Economy,80,Culinary
+BK910288,2024-07-19,London,14,24.0,"356,962.23",Boutique,83,Educational
+BK910036,2023-01-06,Sydney,15,33.0,"463,696.81",Economy,81,Wellness
+BK910002,2024-09-24,Rome,12,25.0,"886,827.40",Boutique,89,Educational
+BK910438,2024-06-24,Sydney,12,26.0,"432,241.37",VIP,76,Educational
+BK910127,2024-06-24,Istanbul,15,24.0,"425,898.88",Executive,91,Educational
+BK910775,2023-10-15,Istanbul,12,32.0,"645,579.79",Economy,93,Culinary
+BK910260,2024-08-08,Paris,15,24.0,"601,329.00",VIP,86,Cultural
+BK910101,2023-10-07,Barcelona,8,31.0,"649,556.40",Economy,85,Culinary
+BK910071,2023-02-05,Sydney,10,30.0,"530,390.14",VIP,88,Wellness
+BK910297,2024-10-25,Paris,8,33.0,,VIP,78,Educational
+BK910077,2023-06-21,Cairo,8,37.0,"391,069.62",Executive,89,Wildlife
+BK910784,2023-03-16,Barcelona,11,20.0,"560,609.70",Executive,79,Culinary
+BK910000,2024-03-30,Amsterdam,9,37.0,"713,510.68",Executive,88,Culinary
+BK910563,2023-06-20,Istanbul,10,21.0,"817,918.32",Executive,81,Wildlife
+BK910092,2024-09-19,Istanbul,11,29.0,"526,199.39",Economy,89,Culinary
+BK910616,2023-11-21,Sydney,12,26.0,,Executive,90,Educational
+BK910319,2023-01-04,Cairo,15,31.0,"350,446.87",VIP,79,Educational
+BK910152,2024-11-26,Paris,14,32.0,"409,636.67",Executive,87,Educational
+BK910394,2024-01-12,Istanbul,10,35.0,"350,445.83",VIP,84,Wildlife
+BK910461,2023-07-12,Cairo,10,27.0,"735,810.32",Boutique,80,Wildlife
+BK910557,2024-05-10,Cairo,14,,"478,515.08",VIP,86,Cultural
+BK910248,2024-01-23,Cairo,8,25.0,"733,390.99",Expedition,94,Wellness
+BK910395,2023-01-22,Amsterdam,11,23.0,"348,842.99",Executive,75,Culinary
+BK910179,2024-07-09,Barcelona,10,26.0,"814,590.46",Boutique,94,Educational
+BK910644,2023-10-21,Barcelona,9,29.0,"798,785.17",Executive,92,Wellness
+BK910676,2024-05-26,Paris,12,32.0,"362,023.31",Expedition,85,Culinary
+BK910725,2024-10-16,Cairo,10,,"323,897.56",Expedition,87,Wellness
+BK910044,2024-03-22,Barcelona,9,24.0,,VIP,82,Culinary
+BK910754,2024-05-05,Tokyo,12,25.0,"809,373.65",Expedition,77,Wellness
+BK910744,2023-07-06,Tokyo,9,36.0,"447,301.54",VIP,86,Wildlife
+BK910302,2023-06-23,Paris,12,27.0,"630,739.89",Boutique,91,Educational
+BK910012,2023-10-31,Paris,9,24.0,"559,352.86",Executive,79,Wildlife
+BK910444,2024-09-15,Barcelona,11,37.0,"775,382.43",Boutique,89,Wildlife
+BK910347,2024-01-19,Tokyo,14,28.0,"596,005.51",Economy,89,Cultural
+BK910371,2023-09-12,Amsterdam,9,37.0,"602,886.59",Boutique,90,Culinary
+BK910457,2024-07-23,Paris,14,36.0,"888,618.78",Economy,81,Wellness
+BK910218,2024-09-15,Cairo,14,36.0,"397,825.79",Boutique,82,Cultural
+BK910199,2024-10-21,Rome,15,30.0,"795,961.80",Executive,83,Culinary
+BK910361,2023-08-07,Amsterdam,9,34.0,"340,273.60",Boutique,92,Wildlife
+BK910232,2024-06-02,London,14,37.0,"589,424.53",Economy,93,Wellness
+BK910304,2024-03-07,Rome,15,24.0,"828,505.87",Expedition,83,Educational
+BK910241,2023-11-25,Paris,14,20.0,"699,150.17",Boutique,94,Culinary
+BK910147,2023-10-18,Barcelona,9,25.0,"710,850.55",Economy,86,Educational
+BK910632,2023-03-25,Tokyo,14,31.0,"464,040.61",Executive,82,Culinary
+BK910336,2023-07-20,Rome,8,29.0,"554,866.25",Economy,75,Culinary
+BK910659,2024-02-06,New York,12,21.0,"524,449.92",Executive,87,Wildlife
+BK910576,2024-10-10,Amsterdam,11,30.0,"615,044.28",Executive,87,Educational
+BK910792,2024-09-25,Tokyo,11,23.0,"580,403.34",VIP,94,Wellness
+BK910478,2023-05-18,London,11,29.0,"501,235.54",Executive,89,Culinary
+BK910520,2024-05-11,Tokyo,8,30.0,"488,706.16",Economy,75,Wellness
+BK910471,2023-03-03,New York,11,31.0,"456,748.94",Economy,86,Culinary
+BK910723,2024-05-08,Paris,15,27.0,"523,552.64",Boutique,89,Educational
+BK910645,2023-09-07,Sydney,11,27.0,"397,715.76",Boutique,84,Educational
+BK910237,2023-11-25,Barcelona,9,32.0,"820,181.02",Executive,83,Cultural
+BK910665,2024-06-08,Amsterdam,15,,"662,239.84",Economy,91,Cultural
+BK910150,2023-11-07,Rome,8,34.0,"388,265.06",Economy,87,Culinary
+BK910743,2024-08-13,New York,11,26.0,"715,907.71",Boutique,88,Cultural
+BK910056,2024-01-26,Istanbul,11,27.0,"805,884.88",VIP,84,Wellness
+BK910048,2024-12-31,Barcelona,11,25.0,"448,958.37",VIP,80,Cultural
+BK910289,2024-04-11,Sydney,15,29.0,"398,101.35",Executive,85,Culinary
+BK910160,2023-08-05,Sydney,10,22.0,"315,041.10",VIP,94,Culinary
+BK910141,2024-07-20,Rome,15,27.0,"337,641.45",Economy,87,Educational
+BK910014,2023-10-26,Rome,8,23.0,"755,917.04",VIP,89,Culinary
+BK910086,2024-01-26,Sydney,14,29.0,,Expedition,77,Cultural
+BK910006,2023-04-11,Tokyo,12,35.0,"336,254.99",Executive,94,Wildlife
+BK910765,2023-03-29,Paris,9,37.0,"747,621.51",VIP,79,Wildlife
+BK910379,2024-02-25,New York,9,28.0,"352,039.37",VIP,94,Culinary
+BK910176,2023-05-17,New York,14,21.0,"656,397.70",Expedition,83,Culinary
+BK910464,2024-12-30,Amsterdam,12,24.0,"752,304.04",Economy,93,Cultural
+BK910173,2024-09-17,Sydney,12,21.0,"520,134.57",Economy,92,Educational
+BK910648,2024-05-27,Rome,8,33.0,"316,396.81",Boutique,90,Educational
+BK910692,2024-06-21,Sydney,12,37.0,"658,185.77",Executive,93,Wellness
+BK910217,2024-03-11,Cairo,15,29.0,"889,878.11",Executive,87,Cultural
+BK910706,2023-02-14,New York,8,23.0,,VIP,91,Cultural
+BK910330,2023-10-14,Barcelona,11,20.0,"420,852.40",Executive,78,Educational
+BK910601,2023-12-29,Barcelona,11,37.0,"382,496.65",Executive,76,Wellness
+BK910159,2024-10-31,Barcelona,15,25.0,"634,824.54",VIP,85,Cultural
+BK910120,2023-06-10,Rome,9,22.0,"658,920.38",Expedition,91,Cultural
+BK910415,2023-12-30,Sydney,11,23.0,"773,478.44",VIP,90,Culinary
+BK910435,2023-09-09,Barcelona,14,24.0,"750,547.87",Economy,85,Cultural
+BK910142,2023-04-09,Barcelona,8,31.0,"832,136.77",Expedition,85,Culinary
+BK910756,2023-03-17,London,14,36.0,"781,377.03",Expedition,87,Wildlife
+BK910312,2023-09-25,Paris,14,,"454,651.24",VIP,92,Educational
+BK910480,2023-03-02,Barcelona,14,32.0,"635,188.28",Economy,91,Wellness
+BK910652,2023-02-19,Paris,12,21.0,"483,986.00",Economy,77,Wellness
+BK910128,2023-09-14,Cairo,14,20.0,"502,924.45",VIP,86,Wellness
+BK910154,2023-05-28,Paris,14,20.0,"855,187.46",VIP,82,Educational
+BK910380,2024-02-10,Istanbul,15,36.0,,Boutique,90,Wildlife
+BK910565,2023-01-13,New York,10,30.0,"880,135.39",Executive,85,Culinary
+BK910198,2023-08-09,Amsterdam,11,34.0,"553,893.83",Boutique,94,Wildlife
+BK910060,2023-11-28,New York,12,20.0,"624,400.98",Executive,83,Culinary
+BK910630,2024-12-05,Amsterdam,9,20.0,"594,962.52",VIP,88,Cultural
+BK910278,2024-04-08,Cairo,14,35.0,"372,762.93",Economy,77,Culinary
+BK910726,2024-10-05,Amsterdam,14,21.0,"448,470.67",Boutique,93,Wildlife
+BK910331,2023-09-08,Amsterdam,12,22.0,"618,667.27",Executive,78,Wellness
+BK910253,2023-11-25,Amsterdam,10,29.0,"349,413.97",Boutique,82,Wildlife
+BK910509,2023-11-04,Cairo,10,30.0,"854,905.23",Executive,91,Culinary
+BK910413,2024-10-10,Rome,11,24.0,"382,448.55",VIP,94,Wellness
+BK910516,2024-12-02,Cairo,12,28.0,"425,818.74",Expedition,84,Cultural
+BK910673,2024-12-04,New York,14,32.0,"757,712.92",Economy,84,Culinary
+BK910542,2024-07-03,Tokyo,12,27.0,"366,706.71",Economy,75,Cultural
+BK910609,2024-01-03,Rome,15,26.0,"836,662.69",VIP,94,Cultural
+BK910156,2024-01-31,New York,15,,"734,535.07",Economy,75,Wildlife
+BK910658,2024-12-17,Cairo,12,28.0,"350,143.20",Executive,75,Culinary
+BK910493,2023-07-27,Cairo,10,34.0,"714,730.53",Expedition,84,Culinary
+BK910020,2023-09-11,Amsterdam,12,31.0,"679,502.70",Executive,75,Wildlife
+BK910768,2024-10-17,Sydney,10,36.0,"753,049.42",Economy,78,Wellness
+BK910193,2023-10-10,Cairo,12,22.0,"794,495.74",VIP,87,Cultural
+BK910068,2023-06-21,Sydney,14,20.0,"730,235.08",VIP,89,Wellness
+BK910305,2024-02-14,Tokyo,10,29.0,"652,913.13",VIP,80,Educational
+BK910789,2023-08-26,Istanbul,11,23.0,"498,641.04",Boutique,90,Wellness
+BK910538,2024-10-13,Rome,8,30.0,"717,905.09",Economy,87,Educational
+BK910390,2024-10-26,London,14,36.0,"869,828.38",Expedition,79,Wellness
+BK910638,2023-08-12,London,11,26.0,"653,700.24",Executive,89,Cultural
+BK910683,2024-01-23,Rome,11,29.0,"698,641.75",Boutique,86,Wildlife
+BK910785,2024-12-20,New York,11,32.0,"565,719.90",Expedition,91,Educational
+BK910657,2024-06-26,Paris,9,22.0,"752,330.67",Economy,78,Wellness
+BK910140,2023-06-07,Istanbul,12,36.0,"893,635.42",VIP,79,Cultural
+BK910715,2024-03-07,Sydney,14,23.0,"403,827.75",Economy,81,Educational
+BK910222,2024-03-29,Cairo,10,34.0,"428,407.09",Executive,81,Cultural
+BK910670,2024-04-22,Istanbul,8,31.0,"625,571.09",VIP,92,Cultural
+BK910070,2023-01-19,Amsterdam,10,22.0,"591,604.61",Expedition,89,Wildlife
+BK910202,2023-08-07,Paris,9,33.0,"644,368.32",VIP,85,Wellness
+BK910572,2024-09-16,Amsterdam,10,23.0,"338,708.32",Expedition,85,Educational
+BK910551,2023-06-26,Istanbul,12,30.0,"546,501.73",Boutique,92,Educational
+BK910124,2023-08-08,Istanbul,8,37.0,"651,042.28",Expedition,83,Educational
+BK910408,2023-08-24,Rome,14,37.0,"652,336.94",Economy,79,Cultural
+BK910059,2023-05-10,New York,9,35.0,"694,540.37",Economy,77,Wellness
+BK910439,2023-04-24,Barcelona,15,28.0,"731,326.38",VIP,81,Culinary
+BK910119,2023-09-11,Cairo,14,30.0,"685,305.11",Economy,88,Cultural
+BK910512,2024-10-01,Istanbul,9,25.0,"772,292.25",Executive,84,Educational
+BK910224,2023-01-02,Barcelona,11,36.0,"675,484.97",Economy,83,Wildlife
+BK910716,2023-07-27,Istanbul,8,28.0,"624,441.98",Executive,84,Educational
+BK910299,2023-02-14,London,8,33.0,"664,624.91",Expedition,94,Wildlife
+BK910238,2024-02-15,New York,15,26.0,"369,198.12",Economy,94,Wildlife
+BK910656,2023-07-03,New York,14,33.0,"469,796.58",Expedition,78,Wellness
+BK910589,2024-08-01,Amsterdam,9,24.0,"618,528.87",Boutique,77,Wellness
+BK910298,2024-03-03,Sydney,9,33.0,"820,697.52",Economy,79,Wellness
+BK910064,2024-07-26,Barcelona,9,20.0,"707,245.16",Economy,92,Culinary
+BK910431,2024-04-09,Cairo,10,21.0,"362,888.73",Executive,84,Cultural
+BK910671,2023-11-17,Barcelona,10,26.0,"656,480.85",Boutique,92,Educational
+BK910321,2024-09-21,Amsterdam,10,28.0,"439,716.72",Expedition,87,Wellness
+BK910040,2023-12-15,London,11,32.0,"739,399.69",VIP,86,Educational
+BK910470,2024-11-25,Barcelona,9,26.0,"794,052.90",Economy,80,Wildlife
+BK910437,2024-12-28,Istanbul,15,20.0,"657,171.92",VIP,81,Wellness
+BK910797,2024-03-06,Tokyo,14,25.0,"655,947.13",Economy,77,Wellness
+BK910344,2024-05-08,Paris,14,,"508,075.99",VIP,85,Cultural
+BK910620,2023-07-06,Cairo,9,29.0,"571,056.26",Economy,80,Cultural
+BK910132,2024-08-18,Cairo,12,31.0,"815,503.39",Boutique,80,Cultural
+BK910608,2024-05-05,New York,14,24.0,"733,142.39",Executive,75,Culinary
+BK910138,2024-10-21,Sydney,9,30.0,"614,055.89",Economy,90,Wellness
+BK910121,2023-07-15,Cairo,14,31.0,"525,415.95",Executive,93,Wellness
+BK910046,2024-07-29,Amsterdam,10,33.0,"339,472.15",Economy,84,Wildlife
+BK910786,2023-12-10,New York,14,29.0,"393,659.33",Economy,85,Educational
+BK910184,2023-05-16,Istanbul,11,34.0,"422,919.74",Expedition,93,Cultural
+BK910053,2023-05-06,Paris,14,23.0,"528,429.37",Executive,85,Educational
+BK910581,2024-02-15,Sydney,9,32.0,"862,324.03",Executive,87,Cultural
+BK910573,2023-08-22,Tokyo,10,20.0,"605,514.74",Boutique,83,Cultural
+BK910402,2023-03-16,Istanbul,9,,"447,381.50",Economy,85,Wellness
+BK910584,2023-11-09,Istanbul,9,35.0,"371,863.83",Executive,85,Culinary
+BK910328,2024-04-22,New York,10,28.0,"507,908.73",Economy,89,Culinary
+BK910631,2023-08-22,Tokyo,10,31.0,"787,202.42",Expedition,87,Wildlife
+BK910603,2024-11-29,Tokyo,8,30.0,"534,255.53",Executive,85,Wellness
+BK910168,2024-07-23,Cairo,12,32.0,"761,915.90",Economy,76,Wellness
+BK910579,2024-01-10,Tokyo,11,24.0,"779,582.41",Economy,93,Culinary
+BK910303,2024-11-14,Cairo,14,23.0,"374,830.15",Boutique,92,Wellness
+BK910172,2023-11-13,Amsterdam,12,20.0,"666,065.96",Economy,78,Wellness
+BK910454,2023-04-13,Paris,9,35.0,"871,071.20",VIP,80,Wildlife
+BK910417,2023-01-27,Amsterdam,8,24.0,"545,250.77",Boutique,94,Educational
+BK910595,2024-11-16,London,10,30.0,"339,802.29",Expedition,81,Culinary
+BK910144,2024-12-02,Barcelona,11,28.0,"850,132.07",Executive,91,Wellness
+BK910646,2024-06-24,London,9,22.0,,VIP,90,Educational
+BK910356,2023-03-17,Barcelona,14,27.0,"615,452.75",Boutique,92,Culinary
+BK910774,2023-08-03,London,12,21.0,"633,068.08",Economy,75,Wildlife
+BK910351,2023-01-31,Tokyo,14,23.0,"433,868.55",Boutique,84,Wellness
+BK910651,2023-02-07,Istanbul,8,22.0,"789,378.69",Boutique,86,Culinary
+BK910773,2023-06-29,London,14,34.0,"601,681.02",Economy,91,Wellness
+BK910363,2024-02-23,Amsterdam,9,30.0,"329,818.51",Economy,79,Wildlife
+BK910226,2023-02-17,Paris,11,36.0,"709,563.75",VIP,81,Cultural
+BK910110,2024-12-20,Istanbul,11,27.0,"866,040.32",Economy,78,Educational
+BK910541,2023-11-29,Barcelona,14,23.0,"795,053.04",VIP,90,Wellness
+BK910625,2023-07-12,Rome,9,30.0,"472,160.91",Economy,94,Wildlife
+BK910433,2024-01-13,Rome,9,36.0,"341,195.17",VIP,77,Wellness
+BK910593,2024-07-31,Cairo,10,29.0,"860,105.58",Executive,79,Wildlife
+BK910790,2023-08-17,New York,10,20.0,"858,181.69",Economy,81,Culinary
+BK910174,2023-02-04,Istanbul,9,25.0,"621,462.96",Economy,92,Educational
+BK910777,2023-02-07,New York,9,36.0,"685,755.69",Economy,83,Wildlife
+BK910352,2024-09-14,Cairo,9,29.0,"580,621.04",Expedition,80,Cultural
+BK910387,2023-03-23,London,11,37.0,"555,562.74",Economy,81,Wellness
+BK910482,2024-04-09,Rome,10,29.0,"379,877.34",Boutique,86,Culinary
+BK910409,2023-10-09,Amsterdam,10,20.0,"366,600.45",VIP,82,Culinary
+BK910420,2024-07-22,Paris,14,35.0,"446,148.31",Executive,77,Wellness
+BK910097,2023-02-14,Rome,9,33.0,"799,434.84",Boutique,91,Culinary
+BK910346,2024-10-18,Rome,15,32.0,"395,311.90",VIP,83,Cultural
+BK910636,2024-05-25,Paris,14,37.0,"442,618.71",VIP,80,Cultural
+BK910211,2023-11-25,Amsterdam,9,23.0,"630,939.22",Economy,89,Wellness
+BK910309,2023-06-01,Sydney,10,36.0,"435,851.76",VIP,89,Cultural
+BK910368,2024-12-15,Barcelona,9,24.0,"405,475.91",Expedition,78,Cultural
+BK910531,2023-08-09,Sydney,9,37.0,"639,540.00",Boutique,76,Wellness
+BK910382,2023-12-25,Barcelona,10,23.0,"525,334.56",Expedition,75,Culinary
+BK910575,2023-10-16,New York,8,29.0,"676,303.18",VIP,90,Cultural
+BK910192,2023-06-18,Rome,8,34.0,"843,640.12",Executive,87,Wellness
+BK910619,2023-11-01,Rome,11,21.0,"398,330.98",Economy,90,Culinary
+BK910080,2023-04-21,Cairo,12,21.0,"844,358.69",Economy,87,Wellness
+BK910604,2023-01-02,Paris,10,35.0,"837,956.63",Boutique,83,Educational
+BK910728,2023-07-31,Paris,15,21.0,"795,016.24",VIP,86,Culinary
+BK910771,2023-03-23,Sydney,10,31.0,"679,302.26",Executive,89,Educational
+BK910467,2023-10-31,Istanbul,15,36.0,"672,785.79",VIP,82,Educational
+BK910208,2024-09-22,New York,9,31.0,"683,939.41",Economy,93,Educational
+BK910256,2023-04-29,Cairo,11,28.0,"713,939.90",Economy,92,Culinary
+BK910719,2023-01-01,Sydney,14,27.0,"319,642.09",Expedition,91,Culinary
+BK910275,2023-03-23,Cairo,8,31.0,"870,484.16",VIP,94,Wildlife
+BK910145,2024-01-07,Istanbul,15,30.0,"652,578.20",Boutique,82,Wellness
+BK910345,2023-07-20,Tokyo,10,29.0,,VIP,77,Educational
+BK910062,2023-12-24,Sydney,11,22.0,"530,709.88",Executive,84,Cultural
+BK910686,2023-01-22,Barcelona,12,31.0,"317,252.37",Boutique,89,Wellness
+BK910050,2023-09-01,London,12,33.0,"608,194.78",Expedition,90,Cultural
+BK910090,2023-10-27,Rome,8,32.0,"606,706.22",Boutique,82,Cultural
+BK910404,2023-11-12,Istanbul,15,21.0,"565,638.73",Economy,80,Wellness
+BK910426,2024-02-07,Rome,12,32.0,"508,734.48",Economy,83,Wildlife
+BK910072,2024-07-24,Tokyo,15,33.0,"456,148.26",Economy,91,Wellness
+BK910108,2023-12-08,Cairo,11,23.0,"618,613.75",Boutique,76,Educational
+BK910338,2024-09-06,London,12,35.0,"529,537.71",Economy,81,Culinary
+BK910068,2024-01-23,Tokyo,11,29.0,"877,410.15",Boutique,79,Wildlife
+BK910424,2023-07-10,London,15,28.0,"411,162.48",VIP,91,Cultural
+BK910462,2023-06-17,Cairo,14,33.0,"497,004.36",Economy,84,Wellness
+BK910569,2023-08-24,London,15,29.0,"481,966.88",Boutique,76,Wellness
+BK910653,2024-03-12,London,11,29.0,"627,835.87",Economy,80,Wildlife
+BK910393,2023-06-27,New York,14,25.0,"602,078.95",Economy,75,Wildlife
+BK910197,2024-10-30,Sydney,10,36.0,"686,588.17",Expedition,84,Cultural
+BK910704,2023-12-17,Paris,11,37.0,"865,751.04",Executive,94,Cultural
+BK910155,2024-09-23,London,14,22.0,"476,854.34",Executive,86,Educational
+BK910613,2024-05-14,London,8,33.0,"715,271.37",Economy,92,Educational
+BK910592,2023-09-01,Rome,12,20.0,"324,648.52",VIP,89,Culinary
+BK910130,2023-06-16,Amsterdam,8,26.0,"463,497.26",Economy,92,Cultural
+BK910220,2024-06-27,Paris,12,37.0,"581,276.04",Executive,81,Cultural
+BK910607,2023-08-30,Sydney,11,23.0,"328,131.95",Expedition,94,Culinary
+BK910033,2023-06-30,Rome,11,26.0,"671,336.63",Expedition,79,Culinary
+BK910194,2024-11-11,Istanbul,11,23.0,"706,811.71",VIP,83,Wellness
+BK910769,2023-12-19,London,11,33.0,"746,838.05",Executive,88,Wellness
+BK910738,2023-02-05,Istanbul,10,28.0,"612,196.09",VIP,80,Culinary
+BK910761,2023-12-28,London,11,,"663,307.63",VIP,80,Wildlife
+BK910588,2023-12-03,Sydney,11,,"541,698.17",Executive,77,Wellness
+BK910707,2024-09-23,Cairo,14,29.0,"334,133.02",Executive,75,Culinary
+BK910445,2024-06-04,Sydney,11,33.0,"368,471.84",Expedition,85,Wellness
+BK910058,2023-05-20,Tokyo,12,21.0,"693,172.62",Expedition,94,Cultural
+BK910618,2023-04-20,Tokyo,14,23.0,"892,399.85",Economy,79,Wildlife
+BK910697,2024-03-17,New York,15,37.0,"319,244.89",Expedition,83,Cultural
+BK910398,2023-02-04,Sydney,8,35.0,"636,186.35",Economy,93,Cultural
+BK910043,2023-08-22,London,12,31.0,"749,340.12",Expedition,90,Educational
+BK910261,2023-04-12,London,9,26.0,"793,663.27",Boutique,75,Wellness
+BK910727,2023-01-16,New York,9,23.0,"628,944.87",Expedition,85,Wellness
+BK910447,2024-11-02,Rome,14,35.0,"672,650.85",VIP,77,Educational
+BK910252,2023-03-07,Tokyo,8,34.0,"717,584.09",Executive,79,Culinary
+BK910746,2023-01-07,Paris,14,24.0,"812,495.26",Boutique,79,Wellness
+BK910627,2024-11-12,Tokyo,14,30.0,"381,539.38",Boutique,87,Culinary
+BK910731,2023-05-18,Cairo,15,31.0,"851,816.58",Boutique,78,Culinary
+BK910693,2024-08-19,Rome,12,28.0,"325,220.18",VIP,80,Cultural
+BK910213,2023-01-23,Paris,15,36.0,"799,176.85",VIP,79,Culinary
+BK910388,2023-04-23,Cairo,8,22.0,"354,893.15",Expedition,82,Wildlife
+BK910125,2023-03-22,Tokyo,15,24.0,,Boutique,88,Cultural
+BK910235,2024-05-31,Tokyo,9,21.0,"312,278.08",Boutique,82,Educational
+BK910280,2024-03-29,Paris,10,32.0,"570,475.17",Expedition,81,Culinary
+BK910153,2023-12-14,Paris,8,31.0,"505,600.15",Economy,85,Educational
+BK910766,2023-06-26,New York,10,37.0,"407,105.85",Economy,87,Wellness
+BK910650,2023-03-06,Rome,14,29.0,"573,887.74",Executive,75,Cultural
+BK910422,2024-02-21,Rome,9,22.0,"545,386.97",Economy,92,Wildlife
+BK910429,2023-06-18,New York,14,28.0,"759,081.70",Executive,93,Educational
+BK910374,2024-03-07,Cairo,12,21.0,"832,481.23",Economy,87,Cultural
+BK910688,2024-05-17,Amsterdam,12,32.0,"691,751.84",Boutique,86,Educational
+BK910026,2024-09-12,Cairo,15,32.0,"382,780.08",Economy,88,Wellness
+BK910343,2023-12-28,Amsterdam,11,35.0,"482,803.61",VIP,83,Culinary
+BK910178,2023-01-04,Paris,10,26.0,"844,291.20",Executive,82,Cultural
+BK910763,2023-07-25,Barcelona,15,25.0,"361,909.68",Economy,82,Culinary
+BK910273,2024-09-15,Istanbul,11,21.0,"548,010.67",VIP,78,Educational
+BK910554,2024-01-25,Paris,12,27.0,"861,365.20",Boutique,91,Wildlife
+BK910366,2024-03-28,London,10,28.0,"866,138.93",VIP,81,Wildlife
+BK910476,2023-12-01,Rome,9,33.0,,Boutique,80,Cultural
+BK910229,2023-04-29,Istanbul,9,33.0,"700,427.18",Expedition,94,Educational
+BK910353,2024-10-17,Istanbul,9,22.0,"577,196.18",VIP,85,Culinary
+BK910562,2024-07-19,Istanbul,9,25.0,"750,774.42",Economy,87,Wildlife
+BK910611,2024-12-28,London,14,29.0,"328,475.08",Boutique,79,Wildlife
+BK910721,2024-09-17,Sydney,8,26.0,"394,331.93",VIP,80,Wildlife
+BK910084,2023-08-01,London,12,20.0,"669,306.30",Executive,89,Wildlife
+BK910544,2023-07-05,Rome,15,35.0,"446,043.07",Executive,84,Culinary
+BK910079,2023-07-01,Amsterdam,14,33.0,"699,640.60",VIP,77,Wildlife
+BK910373,2024-11-02,Barcelona,10,29.0,"515,465.41",Economy,91,Educational
+BK910527,2024-02-12,Sydney,8,25.0,"828,687.65",Boutique,83,Cultural
+BK910047,2023-11-29,Istanbul,14,35.0,"789,266.74",Executive,88,Culinary
+BK910163,2024-12-08,Barcelona,8,20.0,"598,310.11",Economy,81,Wellness
+BK910678,2024-03-17,Amsterdam,12,28.0,,Executive,86,Cultural
+BK910732,2024-10-26,Istanbul,12,34.0,"468,615.66",Boutique,90,Wildlife
+BK910559,2024-12-20,New York,9,37.0,"599,141.97",Executive,92,Wildlife
+BK910505,2023-02-28,Barcelona,14,24.0,"425,527.00",Expedition,79,Cultural
+BK910282,2023-09-22,Rome,9,31.0,"813,618.41",Boutique,88,Culinary
+BK910759,2024-06-20,Istanbul,9,23.0,"791,494.56",Economy,93,Educational
+BK910258,2024-08-17,Sydney,14,22.0,"837,757.56",VIP,87,Wellness
+BK910160,2023-04-19,Barcelona,15,26.0,"823,324.03",Executive,77,Wellness
+BK910074,2023-08-21,Barcelona,9,35.0,"871,363.81",VIP,78,Cultural
+BK910548,2024-02-05,Barcelona,15,32.0,"443,576.70",Economy,79,Wildlife
+BK910635,2024-08-07,Sydney,15,28.0,"855,117.21",Economy,77,Cultural
+BK910681,2023-03-24,New York,14,25.0,"644,159.72",VIP,90,Educational
+BK910200,2024-03-15,Istanbul,8,22.0,"557,159.62",Boutique,94,Educational
+BK910781,2023-08-05,Amsterdam,10,24.0,"637,818.73",Boutique,85,Culinary
+BK910710,2023-06-08,Cairo,12,22.0,"510,422.38",VIP,86,Cultural
+BK910614,2024-01-12,New York,15,23.0,"478,803.51",Expedition,90,Wellness
+BK910129,2023-10-30,Amsterdam,14,32.0,"451,168.89",Economy,83,Educational
+BK910041,2024-04-09,Barcelona,10,22.0,"358,220.37",Executive,84,Educational
+BK910293,2023-08-21,Cairo,9,20.0,"600,490.46",VIP,86,Culinary
+BK910295,2024-08-24,Cairo,15,29.0,"829,340.58",Executive,81,Culinary
+BK910234,2023-02-27,Paris,9,25.0,"678,638.90",Expedition,76,Wildlife
+BK910203,2024-09-22,London,10,28.0,"614,770.75",Economy,86,Wildlife
+BK910423,2023-01-22,Tokyo,15,22.0,"560,726.86",Expedition,91,Wellness
+BK910118,2024-06-21,Paris,11,23.0,"581,674.95",Executive,76,Wildlife
+BK910337,2023-09-11,Tokyo,9,27.0,"432,427.25",Economy,79,Educational
+BK910700,2023-10-08,Rome,8,32.0,"791,417.49",Economy,80,Wildlife
+BK910306,2023-01-14,Sydney,11,27.0,"426,054.03",Expedition,91,Culinary
+BK910787,2024-05-28,Rome,15,29.0,"729,224.31",Executive,85,Culinary
+BK910166,2023-05-01,Paris,11,29.0,"754,591.23",Economy,85,Cultural
+BK910215,2024-04-26,New York,12,24.0,"646,298.39",Expedition,87,Wildlife
+BK910381,2024-06-14,London,9,25.0,"814,811.93",Economy,80,Cultural
+BK910498,2024-09-09,Tokyo,14,27.0,"480,264.46",Economy,89,Cultural
+BK910054,2024-06-01,London,14,20.0,"825,746.07",Economy,75,Cultural
+BK910742,2023-08-09,Barcelona,12,32.0,"736,705.12",Expedition,77,Cultural
+BK910709,2024-06-23,Amsterdam,14,31.0,"777,268.65",Boutique,91,Cultural
+BK910733,2024-08-26,Rome,12,25.0,"698,779.13",Executive,88,Wellness
+BK910712,2023-08-20,New York,10,26.0,"805,110.66",Executive,78,Wildlife
+BK910639,2023-04-01,Amsterdam,14,25.0,"890,962.83",Executive,83,Culinary
+BK910624,2024-10-12,Cairo,14,31.0,"555,795.27",Executive,76,Educational
+BK910365,2023-04-19,Cairo,14,33.0,"786,140.67",VIP,88,Wellness
+BK910446,2024-03-10,New York,9,21.0,"745,579.16",Executive,90,Wildlife
+BK910377,2023-06-22,Cairo,12,27.0,"574,929.05",VIP,80,Wellness
+BK910284,2023-04-03,Paris,8,20.0,"852,265.16",Boutique,82,Culinary
+BK910269,2024-07-21,Istanbul,12,28.0,"540,739.17",Boutique,79,Culinary
+BK910496,2023-04-16,Sydney,11,24.0,"640,797.56",Expedition,82,Culinary
+BK910357,2024-05-04,Rome,10,26.0,"371,976.28",VIP,80,Wildlife
+BK910722,2024-05-21,Tokyo,15,28.0,"442,078.49",Boutique,79,Educational
+BK910099,2023-02-14,Istanbul,15,25.0,"801,807.26",VIP,83,Cultural
+BK910139,2023-05-07,Rome,8,27.0,"541,983.34",Executive,92,Educational
+BK910201,2024-08-03,Paris,9,33.0,"540,539.19",Economy,90,Wellness
+BK910126,2024-01-06,Cairo,9,34.0,"453,898.90",Economy,80,Cultural
+BK910664,2023-03-30,Istanbul,15,20.0,"597,592.05",Boutique,93,Cultural
+BK910684,2024-12-25,Tokyo,11,26.0,"781,402.92",Expedition,79,Educational
+BK910320,2023-07-13,Istanbul,14,35.0,"833,671.01",Executive,93,Wellness
+BK910246,2023-01-03,Rome,14,29.0,"351,016.94",Executive,81,Cultural
+BK910023,2024-11-06,New York,14,23.0,,Executive,85,Culinary
+BK910191,2023-01-13,Tokyo,8,30.0,"583,354.92",Boutique,79,Educational
+BK910264,2024-02-09,Amsterdam,8,22.0,"669,354.88",VIP,90,Culinary
+BK910679,2024-12-26,Amsterdam,10,20.0,"571,656.28",Boutique,81,Educational
+BK910465,2024-02-27,Sydney,10,31.0,"543,207.22",Executive,92,Wildlife
+BK910649,2024-03-03,London,14,,"586,050.22",Expedition,76,Wildlife
+BK910474,2023-10-11,Rome,9,33.0,"650,469.49",Economy,85,Wildlife
+BK910488,2023-04-03,London,10,26.0,"603,075.18",Boutique,78,Wellness
+BK910517,2024-02-23,London,9,35.0,"586,204.50",Expedition,92,Culinary
+BK910183,2024-10-17,Cairo,9,27.0,"788,433.66",Expedition,83,Culinary
+BK910532,2023-03-08,Tokyo,9,33.0,"746,204.07",Expedition,88,Cultural
+BK910748,2024-10-05,Sydney,9,21.0,"509,706.42",Executive,92,Wellness
+BK910682,2023-10-31,Paris,11,21.0,"778,337.61",Boutique,85,Wellness
+BK910206,2024-01-27,Amsterdam,10,34.0,"809,385.64",Expedition,76,Wildlife
+BK910008,2023-05-01,Paris,11,35.0,"399,792.94",VIP,79,Wildlife
+BK910567,2024-03-30,Istanbul,11,36.0,"650,869.24",Economy,79,Cultural
+BK910436,2023-05-14,Sydney,14,25.0,"476,907.52",Executive,93,Wildlife
+BK910430,2023-07-19,Sydney,15,20.0,"742,415.81",Boutique,93,Wildlife
+BK910626,2024-06-11,London,11,37.0,"449,689.42",Economy,84,Educational
+BK910262,2023-02-06,New York,12,30.0,"702,771.06",Economy,92,Educational
+BK910448,2023-11-23,Sydney,14,24.0,"459,247.92",Boutique,79,Educational
+BK910242,2024-03-10,New York,12,33.0,"609,019.10",Executive,88,Wellness
+BK910133,2023-04-07,Sydney,8,36.0,"864,958.18",Executive,82,Wildlife
+BK910556,2023-08-04,Barcelona,15,25.0,"533,064.91",Expedition,79,Cultural
+BK910085,2023-09-09,New York,9,33.0,"822,307.01",Economy,80,Culinary
+BK910677,2024-04-30,London,10,34.0,"887,362.58",Economy,83,Wildlife
+BK910268,2024-12-14,Rome,12,29.0,"821,787.75",Economy,81,Wildlife
+BK910239,2024-09-03,Cairo,10,31.0,"407,031.63",Economy,79,Culinary
+BK910737,2023-05-19,New York,9,24.0,"789,500.06",Economy,81,Educational
+BK910003,2023-01-14,Tokyo,15,36.0,"328,807.40",VIP,77,Wellness
+BK910082,2023-02-07,New York,8,37.0,"540,081.60",Executive,94,Wellness
+BK910687,2024-03-11,Istanbul,9,37.0,"819,379.02",Economy,82,Wellness
+BK910780,2023-04-25,Rome,15,33.0,"712,920.04",Economy,77,Educational
+BK910274,2023-06-19,Amsterdam,14,20.0,"621,653.15",Expedition,86,Culinary
+BK910486,2024-09-11,London,8,26.0,"536,900.45",Boutique,92,Culinary
+BK910103,2024-09-30,Cairo,14,28.0,"785,193.71",Executive,82,Wildlife
+BK910414,2024-09-05,Sydney,15,37.0,"725,091.67",Economy,91,Culinary
+BK910612,2023-07-05,London,8,29.0,"584,017.11",Executive,87,Culinary
+BK910327,2024-03-28,New York,10,29.0,"832,103.34",Expedition,89,Wellness
+BK910104,2024-03-22,Cairo,11,22.0,"444,519.59",Economy,80,Wellness
+BK910696,2023-05-16,Istanbul,8,34.0,"409,679.03",Boutique,75,Educational
+BK910705,2024-02-09,New York,9,26.0,"686,040.20",VIP,81,Culinary
+BK910513,2024-01-19,Tokyo,9,21.0,"878,616.69",Executive,93,Wellness
+BK910561,2023-10-17,Istanbul,9,37.0,"454,645.10",Boutique,90,Cultural
+BK910643,2024-07-03,London,10,23.0,"456,057.17",Executive,90,Cultural
+BK910021,2024-05-10,Istanbul,11,20.0,"391,606.83",Economy,92,Cultural
+BK910443,2024-01-25,Amsterdam,9,21.0,"813,429.68",Boutique,82,Cultural
+BK910776,2024-06-14,Sydney,10,28.0,"442,442.56",Boutique,81,Wildlife
+BK910031,2024-07-11,Istanbul,9,21.0,"604,359.44",Executive,93,Wellness
+BK910550,2024-02-19,Rome,14,35.0,"889,660.40",Expedition,86,Cultural
+BK910383,2023-07-15,Rome,9,29.0,"317,102.43",Economy,80,Culinary
+BK910254,2024-07-08,Rome,15,25.0,"635,544.36",VIP,80,Culinary
+BK910017,2024-06-08,Cairo,11,20.0,"609,689.09",VIP,92,Educational
+BK910024,2024-12-19,London,14,28.0,"782,356.72",VIP,76,Educational
+BK910355,2023-04-20,Tokyo,12,22.0,"517,839.70",Expedition,76,Cultural
+BK910553,2023-11-03,Rome,9,37.0,"550,049.69",VIP,89,Culinary
+BK910378,2024-11-06,Rome,12,25.0,"408,243.72",Expedition,75,Wellness
+BK910760,2024-01-12,Cairo,9,28.0,"743,376.91",Boutique,78,Wildlife
+BK910460,2024-11-20,Barcelona,8,20.0,"769,054.71",Economy,94,Wellness
+BK910019,2023-01-10,Amsterdam,9,22.0,"389,948.04",Expedition,83,Wellness
+BK910162,2023-01-26,New York,9,23.0,"540,172.39",Expedition,89,Wildlife
+BK910016,2024-08-04,Cairo,8,20.0,"832,349.42",Expedition,84,Wellness
+BK910745,2023-09-20,Sydney,8,33.0,"311,583.76",Economy,76,Culinary
+BK910308,2024-01-16,Sydney,15,37.0,"484,774.06",Executive,78,Wellness
+BK910517,2023-11-09,London,11,37.0,"634,699.74",Boutique,90,Wildlife
+BK910495,2023-10-26,Barcelona,10,24.0,"505,444.91",Economy,76,Wildlife
+BK910325,2024-11-17,Amsterdam,15,34.0,"469,146.44",VIP,86,Culinary
+BK910073,2023-03-10,London,9,29.0,"579,121.93",VIP,81,Educational
+BK910075,2024-07-18,Paris,10,20.0,"416,191.02",Expedition,82,Culinary
+BK910515,2024-10-12,Istanbul,14,21.0,"619,830.77",Economy,94,Wellness
+BK910685,2024-04-25,London,12,29.0,"723,417.11",Economy,87,Wellness
+BK910798,2023-10-16,Istanbul,10,27.0,"646,547.55",Executive,87,Cultural
+BK910758,2023-04-27,New York,9,20.0,"364,468.96",Economy,82,Cultural
+BK910283,2024-05-13,Amsterdam,8,36.0,"803,979.04",Economy,82,Cultural
+BK910456,2023-12-09,New York,8,33.0,"412,362.03",Economy,88,Cultural
+BK910568,2023-04-20,Istanbul,9,,"757,415.02",Economy,75,Culinary
+BK910466,2023-09-20,Istanbul,14,37.0,"520,930.59",Boutique,79,Wellness
+BK910558,2024-12-03,Sydney,12,37.0,"767,915.39",VIP,87,Wildlife
+BK910591,2023-07-13,Barcelona,11,37.0,"430,669.65",Economy,87,Cultural
+BK910027,2023-05-11,Paris,14,24.0,"419,197.33",VIP,76,Wildlife
+BK910249,2024-05-13,Istanbul,9,35.0,"600,760.12",Economy,90,Culinary
+BK910292,2023-05-26,Sydney,9,29.0,"329,267.57",Expedition,85,Educational
+BK910477,2024-11-03,Amsterdam,10,33.0,"441,798.94",Economy,79,Culinary
+BK910265,2024-09-19,Tokyo,15,35.0,"733,547.17",Economy,90,Cultural
+BK910674,2024-12-19,Istanbul,12,22.0,"799,869.33",Economy,94,Culinary
+BK910247,2024-10-29,Barcelona,14,28.0,"357,259.44",Expedition,83,Wildlife
+BK910596,2023-06-28,New York,9,22.0,"826,015.46",Expedition,80,Culinary
+BK910228,2023-06-05,London,14,25.0,"776,547.56",Executive,80,Culinary
+BK910729,2023-09-08,Cairo,8,27.0,"818,765.31",VIP,86,Culinary
+BK910724,2023-12-10,New York,9,35.0,"718,580.70",VIP,75,Cultural
+BK910294,2024-10-05,London,11,35.0,"704,379.54",VIP,84,Cultural
+BK910022,2024-06-20,Rome,8,27.0,"617,179.54",Expedition,75,Educational
+BK910210,2024-04-16,New York,15,25.0,"691,880.53",Expedition,75,Wildlife
+BK910089,2024-10-04,Barcelona,15,29.0,"847,679.15",Expedition,83,Wellness
+BK910148,2024-04-17,London,11,36.0,"368,805.37",Executive,89,Educational
+BK910485,2023-10-05,Tokyo,10,37.0,"494,722.22",Expedition,92,Wildlife
+BK910196,2023-10-29,Barcelona,8,24.0,"352,386.16",Economy,76,Wellness
+BK910134,2024-01-13,Sydney,12,23.0,"862,711.03",Boutique,79,Wildlife
+BK910524,2023-03-06,Barcelona,11,32.0,"570,480.30",Executive,83,Culinary
+BK910577,2024-06-26,Istanbul,14,25.0,"705,076.52",VIP,86,Educational
+BK910067,2024-04-22,Sydney,12,23.0,"802,055.24",Boutique,94,Culinary
+BK910494,2024-06-18,Barcelona,8,20.0,"889,735.15",Expedition,88,Culinary
+BK910497,2024-01-26,Rome,8,27.0,"404,642.74",Boutique,85,Cultural
+BK910753,2024-07-26,New York,14,27.0,"777,714.87",Expedition,76,Cultural
+BK910519,2024-11-25,Tokyo,9,30.0,"829,142.40",Economy,76,Wildlife
+BK910794,2024-02-21,New York,15,23.0,"338,592.10",Economy,78,Educational
+BK910537,2023-11-21,Cairo,8,32.0,"751,142.98",Economy,88,Educational
+BK910358,2023-03-18,Barcelona,14,32.0,"517,514.31",Boutique,81,Wildlife
+BK910587,2024-07-23,Barcelona,15,28.0,"689,429.12",Expedition,79,Wildlife
+BK910489,2024-10-22,Rome,11,23.0,"610,718.19",Executive,88,Culinary
+BK910233,2024-05-26,Sydney,8,29.0,"461,949.22",Expedition,91,Cultural
+BK910109,2024-09-24,Rome,15,32.0,"389,104.50",Executive,83,Wildlife
+BK910772,2024-09-21,Paris,9,26.0,"378,414.13",Boutique,92,Cultural
+BK910412,2024-08-06,Tokyo,11,24.0,"370,443.87",Boutique,89,Cultural
+BK910291,2024-01-03,New York,15,29.0,"683,107.17",Economy,89,Educational
+BK910181,2023-03-14,Istanbul,14,26.0,"515,575.35",VIP,92,Culinary
+BK910691,2023-01-03,Amsterdam,8,27.0,"436,730.56",Executive,78,Cultural
+BK910405,2023-05-30,Rome,14,26.0,"714,752.78",Economy,90,Educational
+BK910391,2023-11-12,Cairo,9,25.0,"711,807.00",Boutique,94,Educational
+BK910165,2024-06-27,Istanbul,14,32.0,"625,413.45",Economy,94,Cultural
+BK910449,2023-11-30,Barcelona,12,28.0,"856,950.32",Executive,86,Culinary
+BK910698,2023-01-17,Istanbul,10,28.0,,Economy,90,Culinary
+BK910209,2023-06-03,Paris,10,31.0,"798,979.84",Expedition,92,Wildlife
+BK910401,2024-12-16,Sydney,8,26.0,"353,956.55",Expedition,92,Educational
+BK910473,2024-12-23,London,15,21.0,"742,801.19",Executive,92,Culinary
+BK910149,2023-10-03,Tokyo,9,35.0,"888,241.74",Economy,91,Wildlife
+BK910796,2024-08-11,Tokyo,10,21.0,"805,259.96",Economy,82,Culinary
+BK910070,2024-06-09,Rome,11,30.0,"649,103.86",Boutique,89,Educational
+BK910255,2024-11-11,Amsterdam,12,24.0,"676,658.15",Boutique,83,Culinary
+BK910037,2024-10-10,New York,11,23.0,"516,674.39",Boutique,91,Cultural
+BK910428,2024-04-04,New York,11,20.0,"707,498.85",Expedition,91,Culinary
+BK910566,2023-10-16,New York,12,36.0,"760,681.30",Expedition,93,Educational
+BK910318,2024-04-03,Sydney,15,27.0,"893,963.66",VIP,86,Wildlife
+BK910629,2023-08-22,Amsterdam,10,26.0,"598,090.81",VIP,84,Wellness
+BK910322,2023-09-12,Rome,14,33.0,"345,862.88",Expedition,78,Wellness
+BK910783,2024-03-20,Barcelona,14,20.0,"658,576.90",Executive,87,Culinary
+BK910788,2024-02-22,Sydney,15,30.0,"379,629.13",Expedition,86,Educational
+BK910158,2024-02-29,Barcelona,15,28.0,"453,187.55",Economy,85,Culinary
+BK910095,2023-10-09,Paris,14,29.0,"502,336.25",Economy,88,Culinary
+BK910348,2023-10-27,Rome,9,22.0,"737,652.48",VIP,92,Wildlife
+BK910487,2023-01-08,Paris,14,37.0,"417,527.75",Boutique,77,Culinary
+BK910175,2024-03-15,Rome,14,24.0,"406,965.47",Economy,83,Educational
+BK910341,2024-02-25,Cairo,10,32.0,"336,304.08",Economy,89,Wildlife
+BK910660,2024-11-14,New York,12,33.0,"820,845.36",Economy,91,Wildlife
+BK910186,2024-01-04,Barcelona,9,26.0,"715,700.67",VIP,90,Wildlife
+BK910764,2023-12-08,Tokyo,11,22.0,"333,368.68",Executive,90,Wildlife
+BK910263,2023-02-19,Rome,14,25.0,"326,551.00",Executive,92,Wellness
+BK910411,2023-05-24,New York,9,34.0,"636,824.46",Economy,94,Culinary
+BK910257,2023-09-05,Cairo,10,36.0,"475,282.62",Boutique,87,Wellness
+BK910666,2023-10-03,Amsterdam,14,36.0,"659,084.92",Expedition,79,Culinary
+BK910316,2023-09-23,Rome,11,24.0,"564,243.44",VIP,86,Wellness
+BK910251,2023-10-16,Tokyo,15,30.0,"850,137.85",VIP,89,Culinary
+BK910782,2024-07-16,Rome,8,22.0,"478,368.27",Economy,77,Cultural
+BK910600,2023-04-06,Rome,14,32.0,"707,300.04",Boutique,90,Wellness
+BK910506,2023-08-31,Barcelona,14,27.0,"341,621.77",Expedition,85,Wellness
+BK910078,2023-04-30,Rome,15,32.0,"869,178.41",VIP,93,Culinary
+BK910240,2023-08-13,London,9,32.0,"883,743.12",Executive,79,Wellness
+BK910376,2024-05-15,Rome,15,37.0,"742,358.66",Boutique,93,Educational
+BK910214,2023-02-04,Tokyo,10,28.0,"582,149.30",Boutique,83,Wildlife
+BK910549,2023-09-06,London,10,26.0,"438,696.16",Expedition,86,Wildlife
+BK910418,2023-01-18,Rome,10,29.0,"785,322.06",Economy,88,Wellness
+BK910730,2024-11-29,Istanbul,12,22.0,,Boutique,86,Wildlife
+BK910270,2024-06-15,Tokyo,12,22.0,"439,843.11",Boutique,93,Wildlife
+BK910013,2023-06-28,Paris,11,29.0,"573,960.95",Expedition,78,Cultural
+BK910492,2023-05-25,Barcelona,8,34.0,"580,737.38",Expedition,89,Wellness
+BK910161,2023-03-14,Rome,15,29.0,"793,450.17",Executive,94,Culinary
+BK910392,2023-12-12,Sydney,9,34.0,"710,049.14",Economy,79,Wildlife
+BK910216,2024-07-04,Cairo,8,23.0,"686,253.01",Boutique,80,Wellness
+BK910207,2024-03-03,Paris,12,28.0,"690,149.04",Expedition,84,Wellness
+BK910606,2024-10-06,Tokyo,10,31.0,"468,225.00",Executive,89,Cultural
+BK910112,2023-09-09,Paris,12,26.0,"527,451.09",VIP,94,Culinary
+BK910507,2023-07-23,Paris,15,20.0,"336,712.44",Economy,90,Culinary
+BK910018,2023-12-16,Tokyo,8,,"770,360.56",Economy,90,Culinary
+BK910523,2023-05-28,Cairo,9,36.0,"563,303.96",Executive,83,Cultural
+BK910157,2024-12-14,Tokyo,11,30.0,"566,369.44",Expedition,87,Wellness
+BK910205,2023-05-16,Sydney,14,24.0,"453,533.41",Executive,79,Wellness
+BK910335,2023-12-17,Barcelona,12,24.0,"432,514.96",Economy,84,Wellness
+BK910458,2024-01-17,Barcelona,10,20.0,"653,875.83",Executive,78,Wildlife
+BK910223,2023-02-11,Istanbul,12,37.0,"446,043.51",Executive,75,Wildlife
+BK910770,2023-12-09,Tokyo,15,21.0,"347,562.18",Expedition,92,Culinary
+BK910578,2023-11-29,Istanbul,11,33.0,"758,991.84",Expedition,91,Wellness
+BK910521,2023-07-09,Amsterdam,15,24.0,"530,234.62",Boutique,85,Culinary
+BK910362,2023-04-04,Barcelona,14,26.0,"532,437.82",Boutique,75,Educational
+BK910741,2023-02-03,London,10,24.0,"562,321.19",Executive,76,Cultural
+BK910510,2023-01-07,Amsterdam,9,34.0,"786,801.22",Boutique,77,Culinary
+BK910571,2023-12-18,Barcelona,14,20.0,"497,689.58",Expedition,89,Culinary
+BK910407,2023-03-07,Sydney,9,,"753,451.18",Economy,79,Cultural
+BK910675,2024-12-02,Rome,10,25.0,"859,633.73",Executive,80,Culinary
+BK910004,2023-06-28,Istanbul,9,24.0,"696,607.89",VIP,92,Culinary
+BK910094,2024-04-21,Barcelona,12,23.0,"562,533.43",Boutique,92,Culinary
+BK910560,2024-05-07,Barcelona,10,36.0,"747,456.99",Executive,90,Wildlife
+BK910481,2023-12-29,Tokyo,12,26.0,"577,869.96",Economy,81,Culinary
+BK910499,2024-10-07,Barcelona,15,27.0,"552,439.95",Economy,86,Wellness
+BK910323,2023-03-22,London,14,26.0,"617,290.65",Economy,79,Wellness
+BK910093,2023-06-21,Amsterdam,15,37.0,"495,867.57",VIP,92,Culinary
+BK910695,2023-07-04,London,8,26.0,"370,986.38",Expedition,76,Educational
+BK910703,2023-04-09,Barcelona,11,26.0,"552,688.42",Expedition,89,Wellness
+BK910389,2023-08-04,Amsterdam,9,25.0,"382,456.28",VIP,85,Wellness
+BK910397,2023-08-17,Barcelona,15,,"550,108.26",Boutique,90,Wildlife
+BK910564,2024-07-13,Tokyo,12,21.0,"635,806.23",VIP,84,Culinary
+BK910032,2023-08-09,London,10,30.0,"854,466.04",Economy,78,Cultural
+BK910386,2024-10-02,London,11,20.0,"331,190.06",Expedition,90,Cultural
+BK910364,2024-07-18,Rome,12,24.0,"673,553.17",Boutique,87,Wildlife
+BK910667,2024-10-21,Paris,11,23.0,"577,775.08",VIP,84,Culinary
+BK910453,2023-03-18,Istanbul,11,25.0,"321,852.76",Executive,82,Wildlife
+BK910440,2024-12-20,Sydney,8,33.0,"455,985.68",Executive,81,Cultural
+BK910640,2024-03-24,Cairo,11,30.0,"379,313.87",Boutique,84,Culinary
+BK910633,2024-12-19,New York,10,37.0,"436,824.58",Economy,80,Educational
+BK910227,2023-09-17,Cairo,14,26.0,"470,623.59",Expedition,80,Cultural
+BK910369,2024-11-27,New York,15,36.0,"544,764.21",Economy,80,Cultural
+BK910642,2024-03-06,New York,14,20.0,"619,488.05",Boutique,75,Wellness
+BK910416,2023-02-22,London,8,29.0,"310,579.15",Economy,93,Wildlife
+BK910452,2023-10-27,Tokyo,14,34.0,"404,693.58",Economy,79,Wellness
+BK910081,2023-04-11,Paris,10,29.0,"364,736.34",Executive,78,Cultural
+BK910681,2024-11-19,Barcelona,10,36.0,"631,558.94",Executive,78,Wildlife
+BK910713,2023-08-11,Rome,15,25.0,"502,508.80",Expedition,94,Wellness
+BK910370,2023-06-12,Sydney,15,20.0,"630,812.68",Executive,84,Educational
+BK910311,2024-02-09,Sydney,8,33.0,"439,766.63",Executive,81,Culinary
+BK910450,2023-11-07,Barcelona,10,21.0,"324,174.17",Expedition,83,Cultural
+BK910052,2023-03-12,Rome,14,33.0,"860,699.64",Expedition,76,Culinary
+BK910757,2024-08-19,Sydney,11,33.0,"373,360.25",Boutique,81,Wildlife
+BK910342,2024-09-10,Tokyo,9,35.0,"384,212.37",Expedition,79,Culinary
+BK910540,2024-06-27,London,11,28.0,"395,729.89",Expedition,91,Educational
+BK910267,2024-03-26,Cairo,15,36.0,"884,046.77",VIP,76,Educational
+BK910106,2023-10-22,Amsterdam,9,23.0,"671,331.24",Economy,83,Cultural
+BK910122,2024-02-01,Istanbul,14,27.0,"667,019.62",VIP,90,Wildlife
+BK910396,2024-01-16,New York,14,22.0,"887,218.45",Boutique,91,Cultural
+BK910526,2023-05-01,Paris,15,33.0,"361,736.68",Executive,85,Educational
+BK910533,2023-03-01,Istanbul,10,32.0,"880,083.02",Economy,79,Cultural
+BK910384,2023-07-05,New York,9,34.0,"429,347.69",Executive,81,Cultural
+BK910105,2023-11-29,Cairo,11,33.0,"674,496.83",Executive,79,Wildlife
+BK910266,2023-04-28,Tokyo,11,25.0,"555,748.89",Expedition,88,Wildlife
+BK910347,2023-03-19,Cairo,10,21.0,"534,611.81",Boutique,80,Wellness
+BK910190,2024-09-14,Barcelona,14,,"854,777.35",Expedition,87,Culinary
+BK910714,2023-10-02,London,14,28.0,"397,298.22",Economy,88,Cultural
+BK910795,2024-03-03,Barcelona,9,21.0,"893,285.37",Executive,93,Wildlife
+BK910039,2024-01-19,Paris,14,36.0,"531,788.16",VIP,82,Culinary
+BK910339,2024-06-21,Sydney,9,37.0,"689,533.32",Executive,94,Educational
+BK910188,2024-06-24,Sydney,10,28.0,"876,225.44",Expedition,83,Educational
+BK910403,2023-08-05,Istanbul,8,33.0,"343,696.61",VIP,88,Wildlife
+BK910525,2024-09-11,Barcelona,10,20.0,"849,875.65",Executive,88,Wildlife
+BK910189,2023-09-29,Tokyo,15,21.0,"642,169.66",VIP,91,Educational
+BK910087,2024-09-02,Barcelona,11,24.0,"722,072.17",Executive,84,Wellness
+BK910483,2023-10-23,Sydney,12,31.0,"397,272.75",Economy,90,Wildlife
+BK910005,2023-03-23,Tokyo,8,22.0,"622,031.65",Executive,82,Wildlife
+BK910597,2024-07-09,Rome,12,20.0,"704,005.52",Expedition,84,Wellness
+BK910699,2023-01-23,Istanbul,10,32.0,"576,904.67",Economy,84,Educational
+BK910791,2024-07-18,Istanbul,14,33.0,"400,666.33",Boutique,89,Wildlife
+BK910442,2023-02-01,Rome,15,33.0,"452,809.66",Expedition,87,Cultural
+BK910739,2023-06-01,Sydney,11,34.0,"809,819.78",Economy,76,Culinary
+BK910385,2024-03-17,Tokyo,8,34.0,"330,165.53",Boutique,91,Culinary
+BK910332,2024-11-19,New York,11,30.0,"724,684.32",Boutique,90,Educational
+BK910359,2023-10-26,Cairo,8,29.0,"894,643.17",Economy,77,Educational
+BK910590,2023-03-30,Tokyo,11,35.0,"314,377.55",Economy,94,Educational
+BK910504,2023-06-20,Amsterdam,8,26.0,"404,211.72",Executive,88,Wildlife
+BK910799,2024-10-17,Barcelona,12,21.0,"704,374.42",Expedition,76,Wellness
+BK910375,2024-06-15,Paris,10,,"345,094.64",VIP,84,Educational
+BK910114,2023-03-15,Amsterdam,9,24.0,"655,027.14",Expedition,91,Wellness
+BK910170,2023-10-09,Barcelona,8,,"710,140.06",VIP,80,Wellness
+BK910123,2023-07-13,New York,15,27.0,"654,065.61",Economy,93,Wellness
+BK910301,2023-05-10,Barcelona,14,35.0,"523,633.05",VIP,83,Educational
+BK910615,2024-09-10,Rome,14,20.0,"717,910.14",Boutique,79,Culinary
+BK910602,2024-03-27,Istanbul,8,31.0,"657,662.24",Expedition,82,Cultural
+BK910711,2023-05-12,New York,10,28.0,"431,467.75",Expedition,85,Wellness
+BK910762,2024-04-20,Istanbul,15,28.0,"639,434.29",Executive,88,Culinary
+BK910508,2023-10-30,Istanbul,12,24.0,"825,915.72",Boutique,93,Wildlife
+BK910718,2023-02-14,Sydney,8,37.0,"700,097.47",Economy,78,Educational
+BK910599,2023-11-25,Paris,8,27.0,"585,998.03",Executive,94,Culinary
+BK910221,2023-05-16,Cairo,9,35.0,"498,126.70",Economy,85,Wildlife
+BK910654,2023-06-29,Sydney,15,27.0,"360,243.43",Boutique,77,Educational
+BK910111,2024-10-04,London,9,20.0,"453,106.87",Expedition,93,Educational
+BK910475,2024-06-03,Cairo,15,35.0,"316,544.25",Boutique,81,Cultural
+BK910484,2023-04-09,Paris,12,23.0,"887,176.16",VIP,87,Educational
+BK910329,2024-09-14,Rome,15,24.0,"440,152.12",Expedition,88,Culinary
+BK910279,2024-02-24,Paris,14,35.0,"786,702.43",Expedition,75,Educational
+BK910277,2024-10-01,Sydney,10,36.0,"408,657.26",Executive,79,Wellness
+BK910349,2024-06-30,London,14,36.0,"475,906.67",Expedition,88,Wellness
+BK910793,2023-09-06,London,9,27.0,"554,692.23",VIP,81,Educational
+BK910187,2024-01-26,Barcelona,10,,"499,777.31",Boutique,75,Wildlife
+BK910065,2024-01-24,Tokyo,9,25.0,"777,035.23",Expedition,75,Wellness
+BK910555,2024-06-10,Tokyo,8,33.0,,Boutique,91,Educational
+BK910611,2023-07-01,New York,8,29.0,"822,047.27",Boutique,78,Wellness
+BK910583,2023-09-01,New York,9,20.0,"399,843.05",Expedition,77,Wildlife
+BK910069,2023-06-28,Amsterdam,8,27.0,"764,362.88",Expedition,86,Cultural
+BK910410,2023-08-05,Tokyo,10,28.0,"396,548.94",Economy,77,Wellness
+BK910689,2023-04-28,Istanbul,8,24.0,"844,327.95",Executive,88,Educational
+BK910637,2023-01-27,Amsterdam,8,26.0,"612,958.97",Boutique,85,Educational
+BK910177,2024-11-18,Amsterdam,15,29.0,"506,782.94",Economy,87,Wellness
+BK910736,2023-02-24,Istanbul,8,20.0,"401,859.92",Executive,84,Wellness
+BK910534,2024-10-11,Rome,8,22.0,"316,908.32",VIP,90,Wildlife
+BK910117,2023-01-03,Paris,8,33.0,"455,048.99",Executive,87,Wellness
+BK910586,2024-07-22,Amsterdam,8,26.0,"844,701.74",Boutique,83,Wildlife
+BK910372,2023-08-29,Istanbul,11,30.0,"776,398.38",VIP,75,Educational
+BK910010,2024-01-14,London,14,30.0,"877,329.32",Economy,80,Wildlife
+BK910628,2023-07-26,Tokyo,14,29.0,"368,945.49",Executive,77,Cultural
+BK910669,2023-12-25,New York,12,27.0,"656,424.56",VIP,75,Wellness
+BK910063,2023-11-27,Barcelona,8,28.0,"460,433.03",Boutique,80,Wildlife
+BK910735,2024-01-23,Tokyo,14,34.0,"627,620.90",Boutique,79,Wellness
+BK910500,2023-10-15,Barcelona,8,37.0,"497,466.11",Boutique,76,Culinary
+BK910001,2024-01-28,Cairo,12,24.0,"475,827.35",Economy,81,Culinary
+BK910042,2024-08-26,New York,10,32.0,"645,699.50",VIP,85,Wildlife
+BK910634,2023-11-14,Istanbul,15,37.0,"417,241.12",Economy,78,Cultural
+BK910529,2023-09-22,Tokyo,10,20.0,"584,443.06",Economy,80,Wildlife
+BK910167,2023-04-07,Istanbul,12,34.0,"690,725.18",VIP,75,Wildlife
+BK910076,2023-09-20,New York,11,28.0,"384,986.51",Expedition,76,Cultural
+BK910313,2023-04-02,Rome,11,37.0,"854,397.65",VIP,78,Cultural
+BK910296,2023-05-14,Istanbul,15,30.0,"605,848.95",Boutique,84,Wellness
+BK910502,2024-11-27,London,12,35.0,"789,423.86",Economy,88,Culinary
+BK910490,2023-03-07,Tokyo,10,22.0,"692,534.68",Expedition,90,Cultural
+BK910720,2023-12-19,Barcelona,11,22.0,"725,350.55",Boutique,87,Wellness
+BK910543,2024-09-01,Istanbul,12,36.0,"728,936.60",Expedition,87,Culinary
+BK910641,2024-11-27,New York,10,29.0,"821,933.44",Expedition,93,Culinary
+BK910780,2023-04-18,Cairo,9,30.0,"668,959.18",Expedition,80,Wellness
+BK910617,2023-04-30,Sydney,11,23.0,"472,757.03",Boutique,90,Wellness
+BK910290,2023-09-30,New York,8,24.0,"368,213.14",Economy,93,Wellness
+BK910779,2024-02-10,Barcelona,9,34.0,"664,656.61",Boutique,86,Wildlife
+BK910212,2024-12-02,Cairo,10,25.0,"348,816.39",Boutique,91,Cultural
+BK910555,2023-06-01,London,14,30.0,"451,156.67",Boutique,77,Wellness
+BK910420,2023-05-01,Tokyo,14,25.0,"345,513.70",Expedition,92,Wellness
+BK910672,2023-07-05,Amsterdam,9,24.0,"631,099.24",Expedition,86,Educational
+BK910317,2024-10-01,Barcelona,10,22.0,"403,797.80",Executive,79,Cultural
+BK910057,2023-01-22,Sydney,9,36.0,"667,088.28",Executive,76,Wildlife
+BK910535,2023-10-05,Sydney,14,36.0,"772,656.10",Boutique,89,Culinary
+BK910272,2023-03-28,Amsterdam,9,22.0,"790,800.22",Expedition,83,Wellness
+BK910015,2023-04-25,Rome,14,26.0,"491,082.95",VIP,81,Cultural
+BK910432,2024-11-01,New York,14,30.0,"631,138.40",Economy,82,Wellness
+BK910503,2023-01-02,Istanbul,12,26.0,"639,361.29",VIP,94,Wildlife
+BK910621,2023-08-24,New York,10,32.0,"586,639.00",VIP,83,Cultural
+BK910137,2024-10-31,Rome,15,24.0,"693,241.63",Boutique,76,Culinary
+BK910702,2024-03-20,London,12,21.0,"432,900.97",Economy,80,Wellness
+BK910287,2023-02-22,Cairo,12,26.0,"882,857.30",Expedition,77,Educational
+BK910451,2023-12-06,Tokyo,14,30.0,"367,376.70",Expedition,88,Cultural
+BK910528,2024-12-10,Rome,15,23.0,"795,094.37",Expedition,91,Culinary
+BK910300,2023-10-20,Barcelona,8,34.0,"657,546.15",Economy,91,Educational
+BK910752,2024-01-22,New York,15,20.0,"453,240.03",Expedition,87,Wildlife
+BK910622,2024-01-24,Barcelona,14,21.0,"746,219.88",Executive,90,Wildlife
+BK910195,2024-04-27,Amsterdam,9,29.0,"359,421.32",VIP,83,Educational
+BK910034,2023-05-17,London,10,29.0,"763,034.43",Executive,87,Wellness
+BK910286,2024-09-05,Cairo,14,25.0,"655,141.36",Expedition,77,Educational
+BK910314,2024-12-23,Paris,9,24.0,"374,788.94",VIP,85,Culinary
+BK910547,2023-04-15,Tokyo,11,21.0,"356,510.75",Economy,86,Culinary
+BK910333,2024-08-21,Rome,12,31.0,"749,239.26",VIP,75,Cultural
+BK910182,2024-08-20,Tokyo,12,26.0,"481,367.51",VIP,85,Wildlife
+BK910049,2024-06-26,Barcelona,15,22.0,"830,241.58",Economy,89,Educational
+BK910518,2023-09-29,Rome,8,27.0,"755,812.72",Economy,82,Wildlife
+BK910102,2023-12-09,London,10,36.0,"718,441.29",Boutique,85,Wellness

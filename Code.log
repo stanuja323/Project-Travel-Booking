@@ -1,0 +1,148 @@
+[Running] python -u "c:\Users\lenovo\OneDrive\Documents\Project Travel Booking\travel_analysis.py"
+===  INSPECTING SHAPE, COLUMNS & DATA TYPES ===
+Shape: (812, 9)
+Columns: ['Booking_ID', 'Booking_Date', 'Destination', 'Travelers', 'Trip_Duration_Days', 'Booking_Amount', 'Package_Type', 'Customer_Age', 'Travel_Purpose']
+Booking_ID                str
+Booking_Date              str
+Destination               str
+Travelers               int64
+Trip_Duration_Days    float64
+Booking_Amount            str
+Package_Type              str
+Customer_Age            int64
+Travel_Purpose            str
+dtype: object
+
+=== MISSING VALUES & DUPLICATE BOOKING_ID ===
+Missing values:
+ Booking_ID             0
+Booking_Date           0
+Destination            0
+Travelers              0
+Trip_Duration_Days    20
+Booking_Amount        20
+Package_Type           0
+Customer_Age           0
+Travel_Purpose         0
+dtype: int64
+Duplicate Booking_ID count: 12
+
+=== HANDLE MISSING VALUES ===
+Remaining missing values:
+ Booking_ID            0
+Booking_Date          0
+Destination           0
+Travelers             0
+Trip_Duration_Days    0
+Booking_Amount        0
+Package_Type          0
+Customer_Age          0
+Travel_Purpose        0
+dtype: int64
+
+=== MONTH AND WEEKDAY ===
+  Booking_Date  Booking_Month Booking_Weekday
+0   2023-03-29              3       Wednesday
+1   2024-09-13              9          Friday
+2   2023-10-08             10          Sunday
+3   2023-09-06              9       Wednesday
+4   2024-03-02              3        Saturday
+
+=== TOTALS ===
+Total Bookings: 812
+Total Travelers: 9204
+Total Booking Revenue: 487885393.84
+
+=== AVERAGES ===
+Average Booking Amount: 600844.08
+Average Trip Duration (Days): 28.26
+
+=== RANKING DESTINATIONS ===
+             Booking_Count  Total_Revenue
+Destination                              
+Barcelona               90   5.681035e+07
+Rome                    93   5.540774e+07
+New York                87   5.341753e+07
+Istanbul                85   5.177006e+07
+Cairo                   77   4.677977e+07
+Amsterdam               76   4.525893e+07
+Paris                   75   4.488655e+07
+London                  74   4.481949e+07
+Tokyo                   79   4.456823e+07
+Sydney                  76   4.416674e+07
+
+=== AVERAGE DURATION BY PACKAGE TYPE ===
+Package_Type
+Boutique      28.006849
+Economy       28.880597
+Executive     28.357576
+Expedition    27.735099
+VIP           28.107383
+Name: Trip_Duration_Days, dtype: float64
+
+=== CUSTOMER AGE GROUPS ===
+Age_Group
+80-87       337
+88+         284
+Under 80    191
+Name: Booking_ID, dtype: int64
+Age_Group  Package_Type
+80-87      Boutique        51
+           Economy         84
+           Executive       64
+           Expedition      62
+           VIP             76
+88+        Boutique        62
+           Economy         70
+           Executive       60
+           Expedition      51
+           VIP             41
+Under 80   Boutique        33
+           Economy         47
+           Executive       41
+           Expedition      38
+           VIP             32
+Name: Booking_ID, dtype: int64
+
+=== TOP 5 MONTHS BY BOOKING VOLUME ===
+Booking_Month
+1     80
+10    80
+3     76
+12    72
+9     71
+Name: Booking_ID, dtype: int64
+
+=== LIST, TUPLE, AND SET ===
+Popular destinations (list): ['Rome', 'Barcelona', 'New York']
+Fixed packages (tuple): ('Economy', 'Boutique', 'Executive', 'VIP', 'Expedition')
+Unique destinations (set): {'Paris', 'Sydney', 'Tokyo', 'Istanbul', 'Rome', 'Cairo', 'Amsterdam', 'London', 'New York', 'Barcelona'}
+
+=== DICTIONARY & AVERAGE FUNCTION ===
+Destination booking counts (dict): {'Sydney': 76, 'Istanbul': 85, 'Barcelona': 90, 'Amsterdam': 76, 'Rome': 93, 'Tokyo': 79, 'London': 74, 'Paris': 75, 'Cairo': 77, 'New York': 87}
+Average booking value for Rome: 595782.12
+
+=== NUMPY BOOKING AMOUNT STATS ===
+NumPy Mean: 600844.08
+NumPy Median: 606277.58
+NumPy Std Dev: 166655.08
+
+=== IQR OUTLIERS & DURATION BANDS ===
+Upper IQR limit: 1175221.08
+Unusually expensive bookings count: 0
+Duration_Band
+Medium    379
+Short     228
+Long      205
+Name: count, dtype: int64
+
+=== TRAVELBOOKING CLASS & RECOMMENDATIONS ===
+Sample TravelBooking object: BK910100 Sydney 833416.22
+1. Focus more on popular destinations that bring the most bookings and money.
+2. Run offers and keep extra staff ready during the busiest months.
+3. Plan trips and trip lengths to match what different age groups like.
+4. Offer extra perks on high-value bookings while keeping prices clear.
+5. Keep trip days consistent for each package so planning stays easy.
+
+[Done] exited with code=0 in 1.395 seconds
+
