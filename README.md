@@ -1,0 +1,1 @@
+Travel Booking & Tourist Preference Analysis is a hands-on data analysis assignment using Python focused on the travel and tourism sector. The goal is to examine booking trends, destinations, trip lengths, and customer preferences to uncover seasonal demand and actionable insights for package planning.
